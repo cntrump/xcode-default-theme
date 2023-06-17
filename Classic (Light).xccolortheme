@@ -101,15 +101,15 @@
 		<key>xcode.syntax.character</key>
 		<string>0.11 0 0.81 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.36526 0.421879 0.475154 1</string>
+		<string>0.147709 0.459527 0.0259144 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.36526 0.421879 0.475154 1</string>
+		<string>0.147709 0.459527 0.0259144 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.290196 0.333333 0.376471 1</string>
+		<string>0.14902 0.458824 0.027451 1</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>0.0588235 0.407843 0.627451 1</string>
+		<string>0.056956 0.406224 0.628174 1</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>0.0431373 0.309804 0.47451 1</string>
+		<string>0.044773 0.311521 0.474743 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.109812 0.272761 0.288691 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -137,7 +137,7 @@
 		<key>xcode.syntax.keyword</key>
 		<string>0.607592 0.137526 0.576284 1</string>
 		<key>xcode.syntax.mark</key>
-		<string>0.290196 0.333333 0.376471 1</string>
+		<string>0.14902 0.458824 0.027451 1</string>
 		<key>xcode.syntax.markup.code</key>
 		<string>0.665 0.052 0.569 1</string>
 		<key>xcode.syntax.number</key>
